@@ -20,10 +20,6 @@ The application motivation is to create an web application that serves both the 
 6. Handle user authentication, forget password, account confirmation, contact us and other profile related actions. 
 7. AJAX to asynchronously search and edit users in the control panel.
 
-## Screenshots
-| | |
-|:-------------------------:|:-------------------------:|
-todo
 
 
 ## Installation
